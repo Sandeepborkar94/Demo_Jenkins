@@ -1,84 +1,15 @@
-Stany, इनकी माँ चोद डाल (देखो)
-देखो, देखो, देखो, वो आ गया (yaw)
-चोदना कम चिल्ला ज़्यादा, मैं बस्ती का हस्ती
-मैं मालूम क्या किधर से आता, P town, baby
-मैं तुम लोग को अच्छा सीखारेला, भाई, आने दो पेटी
-ये लंड का बाल (बाल) मेरे सामने बन रहा brazy
-मैं बस्ती का हस्ती, bro
-आ गएले भाई लोग, अभी कल्टी लो
-मैंने Bombay में बचाया एक बच्ची को
-तो इधर fire हो गएली, देख, पलटी, bro
-मैं बस्ती का हस्ती, bro (फोकट)
-अमीर मैं होगएला, गरीब है flow (uh)
-Represent करता मैं बस्ती को
-ये भड़वे कर रहे नकली show
-मैं rapper नहीं gangstar है
-तू rapper नहीं dancer है
-Acting तू करेला रावस, हाँ, पर तू शायद से actor है
-मैं जाने का दोस्त लोग का matter में
-तेरे को मारने का मन भी नहीं कर रेला, सड़ेला cancer है तू
-तेरे को इसलिए मैं लेके नहीं जाता, bro, किधर भी क्यूँकि, bro, फछड़ है तू
-ये शेमड़े को बता रहे
-अपुन किधर से आ रहे, अन किधर को जा रहे
-ये बस्ती में पका रे
-ये लंड के बाल को लंड पे मार रहे
-आज Stany बोले, फकड़ है (फकड़ है)
-लेके जाएगा तेरे को मैं भगा के (भगा के)
-तेरे बाजु वाले मेरे गाने बजाते (बजाते)
-मेरे को मालूम नहीं एड़ कैसे भगाते, फकड़ है
-मैं actor का लड़का नहीं, आएला मैं बस्ती से
-मेरे को बस्ती का हस्ती
-मैं गरीबी से आयेला, bro
-Bombay की public मेरे को बोले की, "जाने दे ना बच्ची"
-मेरे गानों पे अगर हाथ नहीं वरती (वरती)
-मेरे show पे नहीं वडिच की गर्दी (गर्दी)
-मेरी मालूम ना किधर पन चलती (yaw)
-मेरे दोस्त लोग की गाँड़ काहे को जलती?
-चोदना कम चिल्ला ज़्यादा, मैं बस्ती का हस्ती
-मैं मालूम क्या किधर से आता, P town, baby
-मैं तुम लोग को अच्छा सीखारेला, भाई, आने दो पेटी
-ये लंड का बाल (बाल) मेरे सामने बन रहा brazy
-मैं बस्ती का हस्ती, bro
-आ गएले भाई लोग, अभी कल्टी लो
-मैंने Bombay में बचाया एक बच्ची को
-तो इधर fire हो गएली, देख, पलटी, bro
-मैं बस्ती का हस्ती, bro (फोकट)
-अमीर मैं होगएला, गरीब है flow (uh)
-Represent करता मैं बस्ती को
-ये भड़वे कर रहे नकली show
-मैंने बोला खुद को, Altaf Shaikh
-तू तेरा देख, where is my shades?
-Where is my J's now these days?
-You heard my name, fuck that fame
-Use your brain, stay in your lane
-अपुन दोनों same, nobody know my pain
-मैं बोल रेला सच, मेरा सच से बच
-मैं बोल रेला हिंदी (हिंदी)
-मेरी shawty जब लगाती बिंदी
-मेरे को गोली नहीं खाने का नींद की
-मैं club में जब कर रेला entry
-जैसे सच्ची में हो रीली entry
-मैं झाड़ पे कभी चढ़ता नहीं पंक्षी
-तेरा तीन दिन जलाएगा one piece
-मैंने घर दिखाया वोइछ मेरी गलती
-तूने चौकी में खा डाली पलटी
-तुमको गाँड़ धोने आने की नहीं, तभी से कर रहा मैं rap (rap)
-मैं दे रेला slat (slat), मेरा विषय no cap (no cap)
-तेरा जब्त करा flat, तेरी जब्त करा सोच, पहले मेरे तक पहुँच
-ये रांडा सब बोल रेले, "video में लो"
-मैं फुगरी में बजता नहीं, bro
-आई झाऊँ तक मित्र मंडल, bro, you know
-चोदना कम चिल्ला ज़्यादा, मैं बस्ती का हस्ती
-मैं मालूम क्या किधर से आता, P town, baby
-मैं तुम लोग को अच्छा सीखारेला, भाई, आने दो पेटी
-ये लंड का बाल मेरे सामने बन रहा brazy
-मैं बस्ती का हस्ती, bro
-आ गएले भाई लोग, अभी कल्टी लो
-मैंने Bombay में बचाया एक बच्ची को
-तो इधर fire हो गएली, देख, पलटी, bro
-मैं बस्ती का हस्ती, bro (फोकट)
-अमीर मैं होगएला, गरीब है flow (uh)
-Represent करता मैं बस्ती को
-ये भड़वे कर रहे नकली show
-वो आ गया, देखो
-देखो, वो आ गया
+Sure, here are the basic commands for pushing code to a Git repository:
+
+First, navigate to your local Git repository using the command line interface or terminal.
+
+Add all your changes to the staging area using the git add command. For example, git add . adds all changes to the staging area.
+
+Commit your changes with a descriptive message using the git commit command. For example, git commit -m "added new feature to app"
+
+Next, add the remote repository URL to your local Git repository using the git remote add command. For example, git remote add origin https://github.com/username/repo.git
+
+Check the remote repository URL using the git remote -v command. This command will list all remote repositories you have added to your local Git repository.
+
+Push your changes to the remote repository using the git push command. For example, git push origin master pushes the changes to the "master" branch of the "origin" remote repository.
+
+These are the basic Git commands to push your code to a Git repository. However, the specific commands may vary depending on your workflow, branching strategy, and repository setup.
