@@ -23,7 +23,8 @@ public class SpringJenkinsApplication
 	{
 		logger.info("Application Executing......");
 		
-		logger.error("Application Executing second time......");
+		logger.error("this changes done by me");
+		
 
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
